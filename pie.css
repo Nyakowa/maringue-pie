@@ -1,0 +1,29 @@
+body{
+    background-image: url(./image/silverware.jpg);
+    background-attachment: fixed;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: #A4A400;
+    background-color: #f0f0f0;
+}
+h2{
+    text-decoration: underline;
+    color: #A4A400;
+    background-color: #f0f0f0;
+}
+p{
+    color: #404040;
+}
+a{
+    color: #A4A400;
+}
+blockquote{
+    background-color: #ffffa8;
+    font-style: italic;
+}
+ul{
+    list-style-image: url(./image/pie_bullet.png);
+}
